@@ -38,9 +38,9 @@ resolvconf_search: osism.training
 # hosts
 
 hosts_type: template
-hosts_additional_entries:
-  api-int.osism.training: "10.10.{{ userid }}.10"
-  api.osism.training: "10.20.{{ userid }}.10"
+#hosts_additional_entries:
+#  api-int.osism.training: "10.10.{{ userid }}.10"
+#  api.osism.training: "10.20.{{ userid }}.10"
 
 ##########################
 # common
